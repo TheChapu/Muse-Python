@@ -7,5 +7,9 @@ Egg, Bateria, Acc, Gyro
 # Requerimientos
 - Python
 - BLE
+- Pygatt
+- lsl
+- bitstring
+- numpy
 
 
